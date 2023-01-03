@@ -41,7 +41,7 @@ npm run client
     require:"message"
  }
  ```
- # pour creer l'image j'ai utilisé multer
+ # Create image using multer
  ```bash
    npm install --save multer
 
