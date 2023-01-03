@@ -1,0 +1,19 @@
+{
+  "name": "brief_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ELHADRINadia/product.git"
+  },
+  "author": "ELHADRI Nadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ELHADRINadia/product/issues"
+  },
+  "homepage": "https://github.com/ELHADRINadia/product#readme"
+}
